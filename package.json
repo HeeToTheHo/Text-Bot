@@ -1,0 +1,30 @@
+{
+  "name": "text-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot to text you using Twilio's API!",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.6.1",
+    "twilio": "^3.39.5",
+    "xhr2": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeeToTheHo/Text-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "twilio"
+  ],
+  "author": "HeeToTheHo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeeToTheHo/Text-Bot/issues"
+  },
+  "homepage": "https://github.com/HeeToTheHo/Text-Bot#readme"
+}
